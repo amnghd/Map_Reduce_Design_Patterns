@@ -17,4 +17,4 @@ fantastically occured in ['7004477', '1007765', '1025821', '17583', '9006895']
 ```
 
 
-You can also see the map-reduce summary of action for points 3 and 4 ![here](Summarization Patterns/map_red_4.png)
+You can also see the map-reduce summary of action for points 3 and 4 ![here](https://github.com/amnghd/Map_Reduce_Design_Patterns/blob/master/Summarization%20Patterns/map_red_4.png)
